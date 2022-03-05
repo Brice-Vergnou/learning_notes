@@ -2,7 +2,7 @@
 
 Welcome to my data science diary, where I keep track of my findings when learning stuff
 
-There will be notes, as well as some random code snippets or assignements (or even more ?). It's not meant to be a project, rather a place where I can save my notes and let them publicly accessible to anyone
+There will be notes, as well as some random code snippets or assignements (or even more ?). It's not meant to be a project, rather a place where I can save my notes and let them publicly accessible to anyone. I may use these notes for myself to write articles so it's why I may sometimes comment the way the content is being taught.
 
 Enjoy <3
 

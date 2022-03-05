@@ -9,3 +9,6 @@ Introduce to the tools we're going to use, like Jupyter, Python ( I already knew
 It's just a shame the videos about SFrames are not updated, as the notebook provided uses slight different syntaxes as the module was updated.
 
 The syntax is somewhat similar to Pandas, for the moment I don't feel the difference as i didn't test it on large datasets
+
+## Week 2
+

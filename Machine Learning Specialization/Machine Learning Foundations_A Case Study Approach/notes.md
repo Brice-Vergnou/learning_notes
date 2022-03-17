@@ -13,3 +13,4 @@ The syntax is somewhat similar to Pandas, for the moment I don't feel the differ
 ## Week 2
 
 They start by talking about regression as if we would do it by hand, so we can understand the theory first before getting our hands dirty. Even though I personally knew about this concept, the images that were given help to better remember it.
+

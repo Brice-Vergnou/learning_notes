@@ -9,3 +9,6 @@ Enjoy <3
 List of the courses so far :
 * Coursera
   * [Machine Learning Specialization](https://github.com/Brice-Vergnou/learning_notes/tree/master/Machine%20Learning%20Specialization)
+
+### Logs :
+(it allows me to keep track to my progress by creating a streak to "gamify" my learning)

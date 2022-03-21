@@ -7,8 +7,11 @@ There will be notes, as well as some random code snippets or assignements (or ev
 Enjoy <3
 
 List of the courses so far :
-* Coursera
-  * [Machine Learning Specialization](https://github.com/Brice-Vergnou/learning_notes/tree/master/Machine%20Learning%20Specialization)
+* linuxjourney
+* Mathematics for Machine Learning
+  * Linear Algebra
 
 ### Logs :
 (it allows me to keep track to my progress by creating a streak to "gamify" my learning)
+
+* Mar 21, 2022 : unenrolled from the "Machine Learning Foundations: A Case Study Approach" course as it felt too basic and I didn't feel like I was progressing. Started the "Mathematics for Machin Learning" Path.

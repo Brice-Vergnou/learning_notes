@@ -8,10 +8,11 @@ Enjoy <3
 
 List of the courses so far :
 * linuxjourney
-* Mathematics for Machine Learning
+* [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning)
   * Linear Algebra
 
 ### Logs :
 (it allows me to keep track to my progress by creating a streak to "gamify" my learning)
 
 * Mar 21, 2022 : unenrolled from the "Machine Learning Foundations: A Case Study Approach" course as it felt too basic and I didn't feel like I was progressing. Started the "Mathematics for Machin Learning" Path.
+* Mar 22, 2022 : worked on dot product and some other stuff, it's great because it's revisiting a concept i've been taught for years

@@ -14,3 +14,7 @@ Week 2:
 * Projection a bit unclear
 * Proj_v u = (u.v)/(||v^2||) * v
 * v in b basis -> each coef = proj_v b_i
+
+Week 3:
+* Matrices transform space
+* 

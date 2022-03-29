@@ -19,3 +19,5 @@ List of the courses so far :
 * Mar 23, 2022: Wrote an entire article reviewing [the first course I watched](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/), and submitted the draft to a few publications
 * Mar 24, 2022: Started a Kaggle competition, HappyWhale. It'll be a great occasion to learn about Yolo and a ton of other stuff :)
 * Mar 25, 2022: Watched an introduction to YOLO to prepare for the competition, and continued the linear algebra course.
+* Mar 28, 2022: Studied different algorithm to tackle the competition
+* Mar 29, 2022: Continued Linear algebra course

@@ -17,4 +17,4 @@ Week 2:
 
 Week 3:
 * Matrices transform space
-* 
+* Finding the inverse of a matrix can be done easily with Gaussian elimination (try to get your matrix A to I with elimination and back-substitution)

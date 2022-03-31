@@ -21,3 +21,5 @@ List of the courses so far :
 * Mar 25, 2022: Watched an introduction to YOLO to prepare for the competition, and continued the linear algebra course.
 * Mar 28, 2022: Studied different algorithm to tackle the competition
 * Mar 29, 2022: Continued Linear algebra course
+* Mar 30, 2022: Continued linear algebra course, linux101 project
+* Mar 31, 2022: Continued linux101 project, happywhale project and started reviewing the ZTM TF course

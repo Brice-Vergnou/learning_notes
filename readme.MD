@@ -23,3 +23,5 @@ List of the courses so far :
 * Mar 29, 2022: Continued Linear algebra course
 * Mar 30, 2022: Continued linear algebra course, linux101 project
 * Mar 31, 2022: Continued linux101 project, happywhale project and started reviewing the ZTM TF course
+* Apr 1, 2022: Started a Robot Soccer project for highschool
+* Apr 2, 2022: First notebook for the HappyWhale competition

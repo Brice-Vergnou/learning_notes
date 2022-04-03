@@ -18,3 +18,6 @@ Week 2:
 Week 3:
 * Matrices transform space
 * Finding the inverse of a matrix can be done easily with Gaussian elimination (try to get your matrix A to I with elimination and back-substitution)
+
+Week 4:
+* Get a vector in my basis : other matrix basis * vector in our basis => multiply the inverse matrix by the result

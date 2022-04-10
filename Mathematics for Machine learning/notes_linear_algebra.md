@@ -21,3 +21,11 @@ Week 3:
 
 Week 4:
 * Get a vector in my basis : other matrix basis * vector in our basis => multiply the inverse matrix by the result
+* Didn't get Gram-Schmidt process
+
+Week 5:
+* Eigenvector -> follow the same span
+* Eigenvalue -> How much the vector is scaled
+* go too fast
+* ax = lx => (a-lx) = 0 => det(a-lx)=0 => l^2 - (a+d)l + ad - bc = 0
+![image](https://user-images.githubusercontent.com/86613710/162640602-a9c9ece6-f537-4099-a51b-1c3744d4f3b8.png)

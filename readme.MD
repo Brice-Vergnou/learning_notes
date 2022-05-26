@@ -10,3 +10,5 @@ List of the courses so far :
 * linuxjourney
 * [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning)
   * Linear Algebra
+* [Advanced Data Science with IBM](https://fr.coursera.org/specializations/advanced-data-science-ibm)
+  * [Fundamentals of Scalable Data Science](https://fr.coursera.org/learn/ds?specialization=advanced-data-science-ibm)

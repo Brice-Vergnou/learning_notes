@@ -44,4 +44,5 @@ Just setting up an IBM cloud account to be able to use an Spark server later on
 * ApacheSpark -> Java virtual machine written in Scala
 * One JVM per CPU core
 * Data is either in the same cluster, or attached to each computer (JBOD) and shared in fractions  thanks to HDFS ( Hadoop Distributed file system )
-* 
+
+![image](https://user-images.githubusercontent.com/86613710/170888929-3b4a2813-dd1c-4457-9d61-7e548bd152c0.png)

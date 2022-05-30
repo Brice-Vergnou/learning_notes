@@ -12,3 +12,5 @@ List of the courses so far :
   * Linear Algebra
 * [Advanced Data Science with IBM](https://fr.coursera.org/specializations/advanced-data-science-ibm)
   * [Fundamentals of Scalable Data Science](https://fr.coursera.org/learn/ds?specialization=advanced-data-science-ibm)
+* [PyImage study guide to learn Computer Vision](https://pyimagesearch.com/start-here/)
+  * [OpenCV Python Course - Learn Computer Vision and AI](https://www.youtube.com/watch?v=P4Z8_qe2Cu0)

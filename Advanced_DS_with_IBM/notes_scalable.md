@@ -8,7 +8,7 @@ Just setting up an IBM cloud account to be able to use an Spark server later on
 
 |   | SQL | NoSQL      | ObjectStorage |
 | :-----------: | :-----------: | :-----------: | :-----------: |
-| Storage cost      | high       | low | very low 
+! low | very low 
 | Scalability   | low        | high | very high
 | Query speed      | high       | low | very low
 | Flexibility   | low        | high  | very high

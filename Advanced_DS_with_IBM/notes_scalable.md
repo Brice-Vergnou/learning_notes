@@ -50,4 +50,21 @@ Just setting up an IBM cloud account to be able to use an Spark server later on
 * ApacheSpark uses RDD ( Resilien Distributed Data )
 * in-memory but spillable to disk + lazy evaluation ( functions are executed if their computations is necessary )
 * **ApacheSpark is implicitly parallel**
-* 
+
+### Functional programming 
+
+* computations can be expressed as anonymous functions
+* convert any program into a pure functional program
+* Scalais most recent and representative, as  well as Python Java and R
+* Function creators return functions
+* Easy parallelization
+* Send the function over the network to apply it on every chunk with HDFS
+  
+### Cloudant
+
+* "born in the cloud"
+* Scalable 
+* Open source
+
+
+**I decided to stop here because I realized what I was learning wasn't useful as I'm not going to put anything into production before several years ( I have to finish college ). Thus, I'd rather wait and learn about scaling a bit later**

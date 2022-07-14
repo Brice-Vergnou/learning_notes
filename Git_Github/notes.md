@@ -8,5 +8,9 @@
 |git add -p|Allows a user to interactively review patches to add to the current commit|
 |git mv|Similar to the Linux `mv` command, this moves a file|
 |git rm|Similar to the Linux `rm` command, this deletes, or removes a file|
+|git checkout | switch branches|
+|git reset | remove files from the staging area |
+|git commit --amend | make changes to commits after-the-fact|
+|git revert | rolls back a previous commit|
 
 .gitignore => will ignore any file/folder listed in here

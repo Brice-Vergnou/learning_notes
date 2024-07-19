@@ -1,0 +1,4 @@
+for file in files/*
+do
+    decrypt.sh "$file" 2>/dev/null | grep "picoCTF"
+done

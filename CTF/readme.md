@@ -2,6 +2,7 @@ Here you will find general notes and writeups
 
 - [Scripting](#scripting)
 
-# Scripting
+# Bash
 
 * for loop : ```for x in y; do cmd x ; done```
+* find human-readable text : ```strings```
